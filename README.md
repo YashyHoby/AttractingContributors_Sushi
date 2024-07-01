@@ -4,6 +4,7 @@ What is your favorite country?
 - Japan
 - Canada 🇨🇦
 - Japan
+- Korea
 - Bangladesh
 - France
 - China
